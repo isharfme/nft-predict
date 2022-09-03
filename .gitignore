@@ -1,0 +1,6 @@
+*~
+*.csv
+.env
+.vscode/
+assets/
+venv/
